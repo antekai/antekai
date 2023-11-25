@@ -1,6 +1,6 @@
 <!-- generated with https://profile-readme-generator.com/ -->
 
-<h2 align="left">Hi 👋! My name is Andreas and I'm a frontend engineer living in Berlin, Germany</h2>
+<h1 align="left">👋 Hi there, I'm Andreas</h1>
 
 ###
 
